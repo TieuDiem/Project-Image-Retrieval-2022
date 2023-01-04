@@ -33,8 +33,8 @@ git clone https://github.com/TieuDiem/Project-Image-Retrieval-2022.git
  
  <div align ="center">
   <p>
- <img width="400" src="image_query/img_query.png"></img>
- <img width="525" src="image_query/result.png"></img>
+ <img width=300" src="image_query/img_query.png"></img>
+ <img width="425" src="image_query/result.png"></img>
  </p>
  </div>
  
